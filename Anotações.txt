@@ -1,0 +1,9 @@
+modelo.predict('rtmp://10.0.88.6/live/cam1',show=True)
+
+Caminho para camêra
+
+
+video = cv2.VideoCapture('exemplo3.mp4')
+
+Caminho para vídeo
+
